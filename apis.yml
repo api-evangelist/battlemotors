@@ -1,23 +1,66 @@
 aid: battlemotors
+
 name: Battlemotors
-description: 'Battlemotors is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://battlemotors.com/images/logo.png
+
+description: 'Battlemotors designs and manufactures vocational and refuse trucks, offering custom‑engineered platforms for waste collection, delivery, and specialized industrial applications. Their products emphasize durability, uptime, and integrated technology such as the Fortris Control Hub for fleet management and safety. Battlemotors serves a nationwide distribution network with parts support and service, targeting sectors like recycling, infrastructure, agriculture, and oil & gas.'
+
 url: https://raw.githubusercontent.com/api-evangelist/battlemotors/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-27 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-27'
+
 modified: '2026-09-27'
+
 tags:
 - Company
-apis: []
+- Trucks
+- Manufacturing
+- Vocational Vehicles
+- Fleet Management
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/battlemotors-llms.txt
+- type: Hosts
+  url: hosts/battlemotors-hosts.yml
+- type: Vendors
+  url: vendors/battlemotors-vendors.yml
+- type: Newsroom
+  url: https://battlemotors.com/news
+- type: DomainSecurity
+  url: security/battlemotors-domain-security.yml
 - type: Website
-  url: https://equityzen.com/company/battlemotors
+  url: https://battlemotors.com
+
+apis: []
+
+x-coverage:
+  state: unreadable
+  reason: no-machine-readable-spec
+  detail: No machine‑readable API specification was found on the provider's hosts or documentation pages.
+  evidence:
+    - url: https://api.battlemotors.com/openapi.json
+      status: 404
+  checked: '2026-09-27'
+x-enrichment:
+  date: '2026-09-27'
+  status: enriched
+  artifacts_added: 7
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

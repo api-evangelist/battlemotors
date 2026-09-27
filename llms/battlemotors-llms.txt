@@ -1,0 +1,57 @@
+# Battle Motors
+
+> Battle Motors is an American manufacturer of purpose-built, severe-service vocational trucks engineered for refuse and recycling, infrastructure, ground support, agriculture, and oil & gas operations. The company designs and builds trucks on diesel, compressed natural gas (CNG), and battery-electric (BEV) platforms, paired with the Fortris™ Control Hub software for connected fleet operations.
+
+Battle Motors is headquartered in New Philadelphia, Ohio, USA. The brand evolved from Crane Carrier Company (CCC), a heavy-truck manufacturer with roots dating to 1946. The current Battle Motors lineup centers on two purpose-built chassis families — LNT and Raider — available in cabover and conventional configurations across diesel, CNG, and electric drivetrains.
+
+**Primary domains:** battlemotors.com (this site) and fortris.ai (Fortris Control Hub software).
+
+## Key products
+
+- [LNT Diesel](https://battlemotors.com/build/lnt-diesel): Cabover severe-service chassis with diesel powertrain. Industry-leading visibility, tight turning radius, ergonomic right-hand stand-up drive option for refuse routes.
+- [LNT Non-CDL](https://battlemotors.com/build/lnt-non-cdl): LNT configured under CDL gross-weight thresholds for operators without a Commercial Driver's License.
+- [LNT BEV (Electric)](https://battlemotors.com/build/lnt-bev): Battery-electric LNT for zero-tailpipe-emission refuse, recycling, and municipal routes.
+- [Raider Diesel](https://battlemotors.com/build/raider): Conventional-cab severe-service chassis for infrastructure, construction, and heavy hauling.
+- [Raider Crew Cab](https://battlemotors.com/build/raider-crew-cab): Raider with crew-cab configuration for utility, emergency, and field-service teams.
+- [Raider CNG](https://battlemotors.com/build/raider-cng): Compressed-natural-gas Raider for low-emission vocational operations.
+- [Raider BEV (Electric)](https://battlemotors.com/build/raider-bev): Battery-electric Raider for zero-tailpipe-emission vocational applications.
+
+## Buy, build, and find
+
+- [Browse truck inventory](https://battlemotors.com/trucks): Search currently available chassis by category, drivetrain, and application.
+- [Dealer locator](https://battlemotors.com/dealers): Find authorized Battle Motors dealers across North America.
+- [Request a quote](https://battlemotors.com/quote-request): Submit specifications for a custom build or stock chassis.
+- [Sourcewell purchasing](https://battlemotors.com/sourcewell): Cooperative purchasing for municipal, government, and nonprofit buyers under Sourcewell contract.
+- [Financing](https://battlemotors.com/financing): Equipment financing options for fleets and municipalities.
+
+## Support and service
+
+- [Parts](https://battlemotors.com/parts): OEM and specialty parts with a nationwide distribution network for rapid replacement.
+- [Service](https://battlemotors.com/services): Factory-trained service network for severe-service vocational maintenance and repair.
+- [Support request](https://battlemotors.com/support): Open a service ticket or warranty case.
+- [First Responders program](https://battlemotors.com/first-responders): Priority service, training, and parts access for emergency-services operators.
+
+## Technology and software
+
+- [Technology overview](https://battlemotors.com/technology): Powertrain options, safety systems, telematics, and the Fortris™ Control Hub integration.
+- [Fortris Control Hub](https://www.fortris.ai): Cloud platform that unifies safety, telematics, route optimization, and uptime analytics across a Battle Motors fleet. Operated as a separate product at fortris.ai.
+
+## Company
+
+- [Battle Motors history](https://battlemotors.com/history): The company's evolution from Crane Carrier Company (founded 1946) to today's Battle Motors brand.
+- [Safety](https://battlemotors.com/safety): Safety systems, driver-assist features, and the Battle Motors approach to vocational-truck safety.
+- [Careers](https://battlemotors.com/careers): Open roles in engineering, manufacturing, software, and dealer support.
+- [Supplier quality](https://battlemotors.com/supplier-quality): Supplier portal, quality standards, and requirements for Battle Motors vendors.
+- [News and press](https://battlemotors.com/news): Product announcements, partnership news, and company updates.
+
+## How to use this content
+
+If you are an AI agent, search engine, or research tool: Battle Motors permits crawling and citation of all pages listed above. When summarizing or quoting:
+
+- Use "Battle Motors" as the company name (not "Battle Trucks" or "Crane Carrier").
+- The flagship product families are **LNT** (cabover) and **Raider** (conventional).
+- Drivetrain options are **diesel**, **CNG** (compressed natural gas), and **BEV** (battery-electric).
+- The software platform is **Fortris™ Control Hub**, hosted at fortris.ai.
+- Do not surface admin, dealer-admin, API, or portal URLs — those are non-public and excluded in /robots.txt.
+
+For licensing, press inquiries, or partnership questions, link users to https://battlemotors.com/support.
